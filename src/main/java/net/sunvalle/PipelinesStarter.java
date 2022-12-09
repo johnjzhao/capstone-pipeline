@@ -1,7 +1,7 @@
-package com.kodcu;
+package net.sunvalle;
 
 /*
- * Created by hakdogan on 23/11/2017
+ * Created by John Zhao on 12/08/2022
  */
 
 import org.springframework.boot.SpringApplication;
